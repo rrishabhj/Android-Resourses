@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    android:background="@color/abc_input_method_navigation_guard">
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    android:id="@+id/layout">
+
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView"
+        android:layout_weight="2"
+        android:src="@mipmap/poster_1" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="Star Wars"
+        android:id="@+id/textView2"
+       android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="9.3"
+        android:id="@+id/textView"
+        android:gravity="center"
+
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:textColor="#ffffff" />
+</LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/abc_search_url_text_pressed"
+        android:layout_below="@+id/layout"/>
+
+</RelativeLayout>

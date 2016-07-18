@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Top Ten Movies</string>
+
+
+    <string-array name="movie_name">
+        <item>Star Wars</item>
+        <item>Black Swan</item>
+        <item>Tron Legacy</item>
+        <item>Ghost Rider</item>
+    </string-array>
+
+    <string-array name="movie_ratings">
+        <item>9.5</item>
+        <item>7.9</item>
+        <item>7.6</item>
+        <item>5.6</item>
+    </string-array>
+</resources>

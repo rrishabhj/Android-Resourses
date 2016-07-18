@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="175dp"
+    tools:context="rishabh.example.com.mysunshine2.TopFragment"
+    android:background="#1CA8F4"
+    android:orientation="horizontal">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="Today,June"
+            android:id="@+id/list_item_date_textview"
+            android:layout_weight="2.21"
+            android:gravity="center"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="21*"
+            android:id="@+id/list_item_high_textview"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="40dp"
+            android:textColor="#ffffff" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="8*"
+            android:id="@+id/list_item_low_textview"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textSize="30dp"
+            android:paddingBottom="5dp"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/item_icon"
+            android:layout_weight="5"
+            android:src="@drawable/art_clear"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="Clear"
+            android:id="@+id/list_item_forcast_textview"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>

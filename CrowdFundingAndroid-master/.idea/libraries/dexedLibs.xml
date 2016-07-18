@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/android-support-v7-appcompat-a25176d2ec4b3de111d5575bbbb9b673.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/commons-io-2.4-53449ac9aae63b2acdaba2458ac5cb5e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/joda-time-2.6-sources-4fea34bf26a14927efbe6261c59e3223.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/android-support-v4-d0c0285603981188e6c45d3415ad705b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/android-support-v7-appcompat-bab35a572b16346ba770054dbe960020.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/guava-r05-c259ea973e573d42e434fd4d7895b85f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/gson-2.2.2-71d699a90d83eaa1552cebd28bb995d2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/commons-io-2.4-sources-01602ed8271b0fd9c4d9ed9ac7b2c2d5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/google-play-services-e497c3f59fea190c6840032145a4da2f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/google-play-services_lib-e46748cb84502ea17fe83277c3ef864a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/bin/dexedLibs/joda-time-2.6-87f801d86555e85d4f5f05f72b2dad33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

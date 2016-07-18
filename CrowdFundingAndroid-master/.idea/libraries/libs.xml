@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lakshya/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/libs/joda-time-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/libs/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/libs/gson-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/libs/joda-time-2.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/libs/guava-r05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lakshya/libs/commons-io-2.4-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

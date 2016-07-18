@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string-array name="icon_name">
+        <item>adb</item>
+        <item>face black</item>
+        <item>home black</item>
+        <item>settings</item>
+        <item>user share</item>
+        <item>star rate</item>
+    </string-array>
+</resources>

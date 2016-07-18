@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListViewCustomAdaptor2</string>
+    <string-array name="large_string">
+        <item>Soccer Ball</item>
+        <item>Rag Doll</item>
+        <item>Puzzle</item>
+    </string-array>
+    <string-array name="small_string">
+        <item>%20,000, White and black</item>
+        <item>Prince unavailable, Red hair, blue skirt</item>
+        <item>$5.00, 100 pieces</item>
+    </string-array>
+</resources>
